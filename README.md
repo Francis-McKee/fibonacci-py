@@ -3,6 +3,7 @@ A Collection of my Python Programs
 ---
 
 **Games:**
+- [Rock Paper Scissors](https://github.com/Francis-McKee/py-programs/blob/main/Games/rps.py)
 
 **Math:**
 - [Fibonacci Finder](https://github.com/Francis-McKee/py-programs/blob/main/Math/fib.py)
